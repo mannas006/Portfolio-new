@@ -60,8 +60,9 @@ document.getElementById("Byjus").addEventListener("click", function() {
     let Byjus_list = document.getElementById("experience_texts_description_list");
     let Byjus_items = [
         "Familiarity with relevant software, such as Excel or enterprise resource planning (ERP) software.",
-        "Experience with logistics and supply chain management.        ", 
-        "Experience with data analysis and process improvement. ",
+        "Experience with logistics and supply chain management.", 
+        "Experience with data analysis and process improvement.",
+        "To analyzes data, research, and/or processes. Duties may include handling sales data and reports, compensation and incentive plans, sales processes, and customer and marketing data.",
     ];
 
     experience_texts_title.innerHTML = "Operations Executive ";
